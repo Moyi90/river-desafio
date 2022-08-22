@@ -1,0 +1,41 @@
+.btn-card {
+    background-color: rgb(184, 43, 43);
+    color: white;
+}
+
+.bg-btn{
+    background-color: rgb(184, 43, 43);
+}
+
+.card{
+    width: 15rem;
+    
+}
+
+.grid-bootstrap{
+    background-color: rgba(34, 33, 33, 0.384);
+}
+
+.grid-bootstrap div{
+    border: 1px solid black;
+}
+
+.accordion-button{
+    background-color: red;
+}
+
+.color-nav{
+    background-color: rgb(207, 47, 47);
+}
+
+.footer{
+    background-color: #D4D4AA;
+}
+
+.footer ul{
+    display: flex;
+    list-style: none;
+    width: 350px;
+    margin: 0 auto;
+    justify-content: center;
+}
