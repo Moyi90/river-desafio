@@ -39,3 +39,7 @@
     margin: 0 auto;
     justify-content: center;
 }
+
+.row{
+    justify-content: center;
+}
